@@ -1,0 +1,3 @@
+its a bio website im not really sure what else to say here. its pretty barebones but ill add more some other time once I actually remember to and have some new ideas.
+made originally for tribute / the athena award for hack club, but it's nice to have.
+first actual project I think...
